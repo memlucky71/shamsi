@@ -1,4 +1,4 @@
-require "shamsi/version"
+require 'shamsi/version'
 
 module Shamsi
   # Your code goes here...
